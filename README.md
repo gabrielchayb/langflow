@@ -40,7 +40,7 @@ fastapi dev main.py
 python lang_api.py "oi"                                                      
 ```
 
-mas apenas python lang_api.py "Sua mensagem vai aqui" resolve! 
+mas apenas python lang_api.py "Sua mensagem vai aqui" resolve! oioi
 
 
 7. testar langflow fluxo com varias mensagens
